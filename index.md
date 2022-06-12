@@ -1,3 +1,5 @@
 # Remote Area Monitoring
 
-## This is a test of GitHub IO hosting
+Showcase for Remote Area Monitoring Summer 2022
+
+![logo](/assets/logo/logo_text_no_background.png)
